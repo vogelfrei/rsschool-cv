@@ -1,5 +1,7 @@
-##Aliaksandr Kazakouski
+#Aliaksandr Kazakouski
 ###Systems Analyst
+
+---
 
 **Contacts:**
 
@@ -39,3 +41,9 @@ exports.max = function max (array) {
 **2013.02 - present:** System analyst at TOP Soft LLC.nine successfully completed projects.
 I am engaged in solving problems related to business analysis,
 software development and testing, as well as providing technical support to users.
+
+**Education**
+2008.09 - 2013.06
+Belarusian National Technical University, Information Technologies and Robotics Faculty, BA.
+
+English level: A2.
