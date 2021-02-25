@@ -9,11 +9,11 @@ Systems Analyst
 
 I have eight years of experience in the implementation of ERP systems, nine successfully completed projects. When implementing ERP systems, I was engaged in solving problems related to business analysis, software development and testing, and providing technical support to users. I have experience of working in large teams and on long business trips.
 
-#### Skills:
+#### Skills
 
 SQL, PL SQL, JS, C#, VB, HTML, CSS, Vip.
 
-#### JS code:
+**JS code:**
 
 ```
 exports.min = function min (array) {
