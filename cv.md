@@ -1,4 +1,5 @@
-##Aliaksandr Kazakouski
+## Aliaksandr Kazakouski
+
 Systems Analyst
 
 **Contacts:**
@@ -8,10 +9,10 @@ Systems Analyst
 
 I have eight years of experience in the implementation of ERP systems, nine successfully completed projects. When implementing ERP systems, I was engaged in solving problems related to business analysis, software development and testing, and providing technical support to users. I have experience of working in large teams and on long business trips.
 
-####Skills:
+**Skills:**
 SQL, PL SQL, JS, C#, VB, HTML, CSS, Vip.
 
-####JS code:
+**JS code:**
 
 ```
 exports.min = function min (array) {
@@ -35,14 +36,13 @@ exports.max = function max (array) {
 }
 ```
 
-####Professional Appointments
+**Professional Appointments**
 **2013.02 - present:** System analyst at TOP Soft LLC.nine successfully completed projects.
 I am engaged in solving problems related to business analysis,
 software development and testing, as well as providing technical support to users.
 
-####Education
+**Education**
 **2008.09 - 2013.06:**
 Belarusian National Technical University, Information Technologies and Robotics Faculty, BA.
 
-####English level
-**A2**
+**English level: A2**
