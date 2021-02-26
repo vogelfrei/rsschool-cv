@@ -1,0 +1,56 @@
+body {
+  background-color: #ffffff;
+}
+.conteiner {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.main-header {
+  background-color: black;
+  flex-basis: 250px;
+  height: 1050px;
+  color: #ffffff;
+  font-style: normal;
+  box-shadow: 0 0 10px #000000; /* Параметры тени */
+  padding: 10px;
+}
+.name {
+  text-transform: uppercase;
+  font-size: 200%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 10px;
+}
+.prof {
+  text-transform: uppercase;
+  font-size: 120%;
+  letter-spacing: 5px;
+}
+.head_rot {
+  transform: rotate(270deg);
+  margin-top: 50%;
+}
+.contact_main {
+  margin-top: 230%;
+  font-style: normal;
+}
+.contact {
+  font-size: 100%;
+}
+.contact_h {
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.href {
+  color: #ffffff;
+  text-decoration: none;
+}
+.main {
+  flex-basis: 500px;
+  background-color: #ffffff;
+  height: 1050px;
+  box-shadow: 0 0 10px #000000; /* Параметры тени */
+  padding: 10px;
+}
