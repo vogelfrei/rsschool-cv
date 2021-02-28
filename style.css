@@ -9,7 +9,7 @@ body {
 .main-header {
   background-color: black;
   flex-basis: 250px;
-  height: 1050px;
+  align-items: stretch;
   color: #ffffff;
   font-style: normal;
   box-shadow: 0 0 10px #000000; /* Параметры тени */
@@ -32,8 +32,16 @@ body {
   transform: rotate(270deg);
   margin-top: 50%;
 }
+.img {
+  text-align: center;
+  margin-top: 50%;
+  margin-block-start: 50%;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
 .contact_main {
-  margin-top: 230%;
+  margin-top: 100%;
   font-style: normal;
 }
 .contact {
@@ -52,7 +60,7 @@ body {
 .main {
   flex-basis: 600px;
   background-color: #ffffff;
-  height: 1050px;
+  align-items: stretch;
   box-shadow: 0 0 10px #000000; /* Параметры тени */
   padding: 10px;
 }
@@ -87,4 +95,3 @@ h3 {
   margin-top: 25%;
   margin-right: 10%;
 }
-
